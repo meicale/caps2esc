@@ -7,6 +7,8 @@ _Transforming the most useless key **ever** in the most useful one._
     <img src="http://www.catonmat.net/images/why-vim-uses-hjkl/lsi-adm3a-full-keyboard.jpg" alt="ADM-3A terminal">
 </a>
 
+## ORIGINAL repo is [here](https://gitlab.com/interception/linux/plugins/caps2esc)
+
 ## What is it?
 
 - **Put what's useless in its place**
